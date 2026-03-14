@@ -28,7 +28,7 @@
 ## 🔄 API Flow
 
 <p align="center">
-    <img src="./your-architecture-image.png" width="500"/>
+    <img src="./your-architecture-image.png" width=900"/>
 </p>
 
 ---

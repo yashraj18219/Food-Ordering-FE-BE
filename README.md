@@ -20,7 +20,7 @@
 ## 📊 System Architecture
 
 <p align="center">
-  <img src="./your-architecture-image.png" width="500"/>
+  <img src="./your-api-flow-image.png" width="900"/>
 </p>
 
 ---
@@ -28,7 +28,7 @@
 ## 🔄 API Flow
 
 <p align="center">
-  <img src="./your-api-flow-image.png" width="900"/>
+    <img src="./your-architecture-image.png" width="500"/>
 </p>
 
 ---
